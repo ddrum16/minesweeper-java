@@ -2,7 +2,8 @@
 
 A fully playable Minesweeper game written in Java that runs in the terminal, with four difficulty levels, flagging, and colour-coded output.
 
-<p align="center"><img src="images/gameplay.png" width="450"></p>
+<p align="center"><img src="<img width="890" height="788" alt="Screenshot 2026-11-20 183406" src="https://github.com/user-attachments/assets/4bffded7-a259-4bd6-82f3-300d95e1ee3d" />
+" width="450"></p>
 
 ## Features
 
