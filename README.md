@@ -3,9 +3,9 @@
 A fully playable Minesweeper game written in Java that runs in the terminal, with four difficulty levels, flagging, and colour-coded output.
 
 <p align="center">
-<img width="890" height="788" alt="Screenshot 2026-11-20 183406" src="https://github.com/user-attachments/assets/5ac9eebb-8b95-4b31-8a78-295583a5bdb3" />
+<img width="500" height="500" alt="Screenshot 2026-11-20 183406" src="https://github.com/user-attachments/assets/5ac9eebb-8b95-4b31-8a78-295583a5bdb3" />
 </p>
-<p align="center"><i>Final CAD model (Inventor) · Minesweeper Terminal Game Board</i></p>
+<p align="center"><i>Minesweeper Terminal Game Board</i></p>
 
 ## Features
 
